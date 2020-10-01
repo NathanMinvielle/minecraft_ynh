@@ -1,5 +1,5 @@
-SOURCE_URL=https://papermc.io/ci/job/Paper-1.13/495/artifact/paperclip-495.jar
-SOURCE_SUM=171f1adb4c274d35e41b1cd4b8a1a8ada3d790e5651127b021dc481afc90bfcf90a18ae28e18150c3d30a4ffa52ee6066fea8e53ca9832f40afef5561c1cd96a
+SOURCE_URL=https://papermc.io/api/v1/paper/1.16.3/209/download
+SOURCE_SUM=02669b9df183cf4e9ad26d93aaf0924df1d2f364df3dc4c728fa72b888c44c9e2cd2f1d71f92b1bbd8abf4a8c9712c34dcbbf68f933b73acc8224df64839e812
 SOURCE_SUM_PRG=sha512sum
 SOURCE_FORMAT=jar
 SOURCE_IN_SUBDIR=false
